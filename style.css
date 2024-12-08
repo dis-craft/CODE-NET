@@ -1,0 +1,22 @@
+.mainbody{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 100px 10px 50px;
+    gap: 20px;
+}
+
+.d1{
+    background-color: red;
+}
+
+.d2{
+    background-color: blue;
+}
+
+.d3{
+    background-color: violet;
+}
